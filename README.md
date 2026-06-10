@@ -20,6 +20,12 @@ A RAG chatbot in Flowise that answers questions about a supplier network using t
 
 The chatbot allows users to query supplier performance, governance policies, risk classifications, disruption handling procedures, and compliance metrics using natural language.
 
+
+Credentials
+
+<img width="1600" height="728" alt="D" src="https://github.com/user-attachments/assets/57044013-94db-45c6-af22-120408019119" />
+
+
 ##---------------------------Business Problem-------------
 
 ## Business Problem
