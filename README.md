@@ -13,4 +13,6 @@ A RAG chatbot in Flowise that answers questions about a supplier network using t
 
 
 #--------------------DEMO-----------------------
+##First Question
+<img width="1600" height="801" alt="Question_1_A" src="https://github.com/user-attachments/assets/b56d90ce-862a-4299-b076-88c4a40fbd2f" />
 
